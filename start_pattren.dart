@@ -6,7 +6,6 @@ void main() {
   //   print("");
   // }
 
-//way 2
   for (int i = 1; i <= 5; i++) {
     String s = "";
     s = s + "*" * i;
